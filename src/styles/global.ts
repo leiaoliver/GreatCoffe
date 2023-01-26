@@ -6,6 +6,14 @@ export default createGlobalStyle`
     padding: 0;
     background: black;
 
+    ul {
+      list-style: none;
+      text-decoration: none;
+    }
 
+    button {
+      text-decoration: none;
+      cursor: pointer;
+    }
  }
 `;
