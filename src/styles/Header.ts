@@ -19,7 +19,6 @@ export const Container = styled.div`
     height: 37px;
     border-radius: 10px;
     border-color: rgba(130, 87, 229, 1);
-    cursor: pointer;
 
     color: #fff;
 
@@ -40,9 +39,4 @@ export const Ul = styled.ul`
   justify-content: center;
   align-items: center;
   text-align: center;
-
-  text-decoration: none;
-  list-style: none;
-
-  cursor: pointer;
 `;
